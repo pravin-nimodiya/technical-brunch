@@ -10,9 +10,9 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 
 import main.Hotel;
-import main.NoHotelsAvailableException;
 import main.ReservationSystem;
 import main.exception.InputException;
+import main.exception.NoHotelsAvailableException;
 import main.utils.TimeUtility;
 
 public class CheapestHotelTest {
